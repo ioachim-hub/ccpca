@@ -140,5 +140,5 @@ setup(name='ccpca',
       packages=[''],
       package_dir={'': '.'},
       package_data={'': [cpca_cpp_so, ccpca_cpp_so]},
-      install_requires=['numpy'],
+      install_requires=['numpy==1.23.5'],
       py_modules=['cpca_cpp', 'ccpca_cpp', 'cpca', 'ccpca'])

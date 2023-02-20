@@ -103,6 +103,11 @@ Setup
 
     `python3 sample.py`
 
+* You will need a C library called Eigen
+```sh
+sudo dnf install eigen3-devel-3.4.0-8.fc37
+```
+
 ##### 2) Installation of fc-view
 
 * If you want to use the algorithms for scalable visualization of features' contributions, please follow the next steps.
