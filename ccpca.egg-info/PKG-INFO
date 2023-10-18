@@ -2,4 +2,3 @@ Metadata-Version: 2.1
 Name: ccpca
 Version: 0.16
 License-File: LICENSE
-Requires-Dist: numpy>=1.23.5
