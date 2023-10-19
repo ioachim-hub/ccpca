@@ -5,13 +5,16 @@ README.md
 ccpca.cpp
 ccpca.hpp
 ccpca.py
+ccpca_cpp.cpython-311-x86_64-linux-gnu.so
 ccpca_wrap.cpp
 cpca.cpp
 cpca.hpp
 cpca.py
+cpca_cpp.cpython-311-x86_64-linux-gnu.so
 cpca_wrap.cpp
 sample.ipynb
 sample.py
+setup.cfg
 setup.py
 ./ccpca.py
 ./ccpca_cpp.cpython-311-x86_64-linux-gnu.so

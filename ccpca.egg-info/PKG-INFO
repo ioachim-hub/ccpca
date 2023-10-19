@@ -1,4 +1,6 @@
 Metadata-Version: 2.1
 Name: ccpca
 Version: 0.16
+Summary: AIM CCPCA
+Requires-Python: >=3.9.0
 License-File: LICENSE
