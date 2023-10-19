@@ -137,8 +137,6 @@ ccpca_cpp_so = f"ccpca_cpp{extension_suffix}"
 setup(
     name="ccpca",
     version=0.16,
-    packages=["."],
-    package_dir={".": "."},
     # package_data={"": [cpca_cpp_so, ccpca_cpp_so]},
     data_files=[("./", [cpca_cpp_so, ccpca_cpp_so])],
     install_requires=["numpy>=1.23.5"],
